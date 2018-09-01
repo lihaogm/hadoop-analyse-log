@@ -1,0 +1,10 @@
+com/lihaogn/hadoop/project/LogApp.class
+com/lihaogn/hadoop/project/LogApp$MyMapper.class
+com/lihaogn/hadoop/project/LogApp$MyReducer.class
+com/lihaogn/hadoop/ParititonerApp$MyMapper.class
+com/lihaogn/hadoop/ParititonerApp$MyReducer.class
+com/lihaogn/hadoop/WordCountApp$MyReducer.class
+com/lihaogn/hadoop/ParititonerApp.class
+com/lihaogn/hadoop/ParititonerApp$MyPartitioner.class
+com/lihaogn/hadoop/WordCountApp$MyMapper.class
+com/lihaogn/hadoop/WordCountApp.class
